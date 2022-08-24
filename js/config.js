@@ -27,7 +27,7 @@ var l_serverName = "";
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 // Default available videos:
 // "aurora.webm"
